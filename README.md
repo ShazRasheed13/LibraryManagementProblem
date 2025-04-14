@@ -1,4 +1,4 @@
-# LibraryManagementProblem
+# Library Management Problem
 A practice question for testing and refactoring
 
 # Problem Statement
