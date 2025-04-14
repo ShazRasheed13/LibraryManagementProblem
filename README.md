@@ -4,10 +4,10 @@ A practice question for testing and refactoring
 # Problem Statement
 You're working on a legacy library system that manages books and their loan status. Each book has:
 
-Title
-Status (Available, Borrowed, Overdue, In Repair)
-Days borrowed (if applicable)
-Condition rating (1-5, where 5 is excellent)
+* Title
+* Status (Available, Borrowed, Overdue, In Repair)
+* Days borrowed (if applicable)
+* Condition rating (1-5, where 5 is excellent)
 
 Business Rules:
 
